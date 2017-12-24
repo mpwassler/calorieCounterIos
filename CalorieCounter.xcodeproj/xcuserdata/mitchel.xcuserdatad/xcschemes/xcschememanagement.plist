@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CalorieCounter.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>FAAFF4F61C9DFFDD00C7D20A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FAAFF50D1C9DFFDD00C7D20A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FAAFF5181C9DFFDD00C7D20A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
